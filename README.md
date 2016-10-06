@@ -12,7 +12,7 @@ python stream-bit.py
 ```
 
 
-Send donatations to:
+Send donations to:
 ```
 3DrXNQydchoC7aaNHa4F4BSNCL2YyZJAjn
 ```
